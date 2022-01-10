@@ -1,0 +1,5 @@
+img/* -linguist-detectable
+js/jquery/* linguist-vendored
+styles/css/* -linguist-detectable
+styles/fonts/* linguist-vendored
+styles/mincss/* -linguist-detectable
